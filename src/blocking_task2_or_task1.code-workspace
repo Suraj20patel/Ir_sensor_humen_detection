@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../blocking_task2_or_task1"
+		},
+		{
+			"name": "IR_Sensor_humen detection",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
